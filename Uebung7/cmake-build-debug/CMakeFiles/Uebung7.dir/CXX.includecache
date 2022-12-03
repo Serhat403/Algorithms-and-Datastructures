@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/ChainingHashset.hpp
+ChainingNode.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/ChainingNode.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/ChainingNode.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/OrderedDoubleHashset.hpp
+OrderedNode.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/OrderedNode.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/OrderedNode.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/main.cpp
+iostream
+-
+ChainingHashset.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/ChainingHashset.hpp
+OrderedDoubleHashset.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung7/OrderedDoubleHashset.hpp
+

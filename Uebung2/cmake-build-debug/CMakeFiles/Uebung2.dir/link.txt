@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Uebung2.dir/main.cpp.o CMakeFiles/Uebung2.dir/ListNode.cpp.o CMakeFiles/Uebung2.dir/LinkedList.cpp.o -o Uebung2.exe -Wl,--out-implib,libUebung2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

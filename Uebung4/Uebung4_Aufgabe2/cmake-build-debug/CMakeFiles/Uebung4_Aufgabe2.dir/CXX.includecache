@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung4_Aufgabe2/quicksort_mot.cpp
+quicksort_mot.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung4_Aufgabe2/quicksort_mot.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung4_Aufgabe2/quicksort_mot.hpp
+

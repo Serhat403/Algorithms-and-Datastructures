@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung5/BinarySearchTree.cpp
+iostream
+-
+BinarySearchTree.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung5/BinarySearchTree.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung5/BinarySearchTree.hpp
+iosfwd
+-
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung5/main.cpp
+iostream
+-
+BinarySearchTree.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung5/BinarySearchTree.hpp
+

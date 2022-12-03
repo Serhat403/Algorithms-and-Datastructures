@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung2/LinkedList.cpp
+LinkedList.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung2/LinkedList.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung2/LinkedList.hpp
+iostream
+-
+ListNode.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung2/ListNode.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung2/ListNode.hpp
+

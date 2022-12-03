@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung3/MinHeap.cpp
+MinHeap.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung3/MinHeap.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung3/MinHeap.hpp
+string
+-
+limits
+-
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung3/main.cpp
+iostream
+-
+MinHeap.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung3/MinHeap.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Uebung3.dir/main.cpp.o CMakeFiles/Uebung3.dir/MinHeap.cpp.o -o Uebung3.exe -Wl,--out-implib,libUebung3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung6/AVLTree.hpp
+
+/cygdrive/c/Users/serha/CLionProjects/Uebung6/main.cpp
+iostream
+-
+AVLTree.hpp
+/cygdrive/c/Users/serha/CLionProjects/Uebung6/AVLTree.hpp
+
